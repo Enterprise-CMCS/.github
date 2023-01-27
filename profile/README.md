@@ -7,4 +7,4 @@ In 2010 the Centers for Medicare & Medicaid Services (CMS) initiated the Medicai
 
 MACBIS currently consists of four major projects: Medicaid and CHIP Program (MACPro), the Transformed Medicaid Statistical Information System (T-MSIS), the Medicaid Drug Rebate (MDR) program, and the Medicaid and CHIP Financial (MACFin) program.
 
-# For more information visit the [Medicaid.gov](https://www.medicaid.gov/medicaid/data-systems/medicaid-and-chip-business-information-solution/index.html)
+### For more information visit the [Medicaid.gov](https://www.medicaid.gov/medicaid/data-systems/medicaid-and-chip-business-information-solution/index.html)
